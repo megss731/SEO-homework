@@ -106,5 +106,3 @@ img {
   box-shadow: var(--box-shadow);
   text-decoration: none;
 }
-@media (max-width: 768px) {
-}
